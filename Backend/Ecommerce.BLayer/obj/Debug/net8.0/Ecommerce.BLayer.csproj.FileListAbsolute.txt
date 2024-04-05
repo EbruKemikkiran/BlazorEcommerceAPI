@@ -1,0 +1,14 @@
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\bin\Debug\net8.0\Ecommerce.BLayer.deps.json
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\bin\Debug\net8.0\Ecommerce.BLayer.runtimeconfig.json
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\bin\Debug\net8.0\Ecommerce.BLayer.dll
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\bin\Debug\net8.0\Ecommerce.BLayer.pdb
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.csproj.AssemblyReference.cache
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.AssemblyInfoInputs.cache
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.AssemblyInfo.cs
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.csproj.CoreCompileInputs.cache
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.dll
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\refint\Ecommerce.BLayer.dll
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.pdb
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\Ecommerce.BLayer.genruntimeconfig.cache
+D:\EEcommerce\Ecommerce\Ecommerce.BLayer\obj\Debug\net8.0\ref\Ecommerce.BLayer.dll
