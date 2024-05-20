@@ -11,7 +11,7 @@ namespace Ecommerce.API.Controllers
 
         public PaymentService()
         {
-            StripeConfiguration.ApiKey = "sk_test_51Lx5ufFjZ2d2ixOMakzSO6vTs22dFu46juurIfRLBkMx58Sq82VEuQV9WfJcIpIqzi23alNMAlebTkXUOqinvght00FtzjLEIH";
+            StripeConfiguration.ApiKey = "sk_test_51Lx5ufFjZ2d2ixOMakzSO6vTs22dFu46juurIfRLBkMx58Sq82VEuQVlNMAlebTkXUOqinvEIH";
         }
         public Session CreateChecoutSession(List<CartItem> cartItems)
         {
